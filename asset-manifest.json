@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/your-it-soft/static/css/main.8feeb1ea.css",
+    "main.js": "/your-it-soft/static/js/main.f16381f0.js",
+    "static/js/787.8f49eced.chunk.js": "/your-it-soft/static/js/787.8f49eced.chunk.js",
+    "index.html": "/your-it-soft/index.html",
+    "main.8feeb1ea.css.map": "/your-it-soft/static/css/main.8feeb1ea.css.map",
+    "main.f16381f0.js.map": "/your-it-soft/static/js/main.f16381f0.js.map",
+    "787.8f49eced.chunk.js.map": "/your-it-soft/static/js/787.8f49eced.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8feeb1ea.css",
+    "static/js/main.f16381f0.js"
+  ]
+}
