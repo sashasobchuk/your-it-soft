@@ -1,0 +1,28 @@
+.postsContainer {
+    width: 30%;
+    aspect-ratio: 88/60;
+    margin: 5px;
+    background: #333348;
+    border-radius: 40px;
+    overflow-y: scroll;
+    text-align: left;
+    font-size: 18px;
+    line-height: 23px;
+    min-width: 350px;
+}
+
+.postContainer {
+    border-bottom: 1px solid black;
+    padding: 10px 70px;
+}
+
+.tittle {
+    margin: 20px 0;
+    line-height: 35px;
+}
+
+@media only screen and (max-width: 1110px) {
+    .postsContainer {
+        width: 90%;
+    }
+}

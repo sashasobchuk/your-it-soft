@@ -1,0 +1,19 @@
+.app {
+  position: relative;
+  text-align: center;
+
+  background: #12122D;
+  /*width: 1000px;*/
+  height: auto;
+  /*border: red solid 3px;*/
+
+
+
+  font-family: Sora, serif;
+  font-style: normal;
+  font-weight: normal;
+  /*font-size: 24px;*/
+  /*line-height: 30px;*/
+  color: #EEEEEE;
+
+}

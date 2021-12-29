@@ -1,0 +1,11 @@
+.usersContainer {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    background: inherit;
+    align-content: center;
+    max-width: 750px;
+}
+
